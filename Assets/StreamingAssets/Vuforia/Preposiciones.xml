@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Up" size="12.000000 20.338236" />
+    <ImageTarget name="Under" size="12.000000 20.338236" />
+    <ImageTarget name="Towards" size="12.000000 20.338236" />
+    <ImageTarget name="Through" size="12.000000 20.338236" />
+    <ImageTarget name="Over" size="12.000000 20.338236" />
+    <ImageTarget name="OutOf" size="12.000000 20.338236" />
+    <ImageTarget name="Opposite" size="12.000000 20.338236" />
+    <ImageTarget name="On" size="12.000000 20.338236" />
+    <ImageTarget name="Near" size="12.000000 20.338236" />
+    <ImageTarget name="Into" size="12.000000 20.338236" />
+    <ImageTarget name="InFrontOf" size="12.000000 20.338236" />
+    <ImageTarget name="In" size="12.000000 20.338236" />
+    <ImageTarget name="Down" size="12.000000 20.338236" />
+    <ImageTarget name="Between" size="12.000000 20.338236" />
+    <ImageTarget name="Below" size="12.000000 20.338236" />
+    <ImageTarget name="Behind" size="12.000000 20.338236" />
+    <ImageTarget name="At" size="12.000000 20.338236" />
+    <ImageTarget name="Around" size="12.000000 20.338236" />
+    <ImageTarget name="Among" size="12.000000 20.338236" />
+    <ImageTarget name="Along" size="12.000000 20.338236" />
+    <ImageTarget name="Across" size="12.000000 20.338236" />
+    <ImageTarget name="Above" size="12.000000 20.338236" />
+  </Tracking>
+</QCARConfig>
