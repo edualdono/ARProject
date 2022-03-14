@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CardsScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 597149541409f07498dbc3453c40feb0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bbfd5a11aabbfad4ea22aac9afd5c5e1, type: 2}
