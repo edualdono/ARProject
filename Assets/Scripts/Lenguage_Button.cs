@@ -35,27 +35,27 @@ public class Lenguage_Button : MonoBehaviour
 
     public void OnButtonPressed(VirtualButtonBehaviour vb)
     {
-        Debug.Log("Se ha presionado espanol");
+        //Debug.Log("Se ha presionado espanol");
         //Reproductor.clip = audioEspanol;
         Reproductor.Play();
     }
 
     public void OnButtonReleased(VirtualButtonBehaviour vb)
     {
-        Debug.Log("Se ha retirado espanol");
+        //Debug.Log("Se ha retirado espanol");
         Reproductor.Stop();
     }
 
     public void OnButtonPressed2(VirtualButtonBehaviour vb)
     {
-        Debug.Log("Se ha presionado ingles");
+        //Debug.Log("Se ha presionado ingles");
         //Reproductor.clip = audioIngles;
         Reproductor2.Play();
     }
 
     public void OnButtonReleased2(VirtualButtonBehaviour vb)
     {
-        Debug.Log("Se ha retirado espanol");
+        //Debug.Log("Se ha retirado espanol");
         Reproductor2.Stop();
     }
 }
