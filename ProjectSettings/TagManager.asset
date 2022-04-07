@@ -3,7 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Above
+  - Across
+  - Along
+  - Among
+  - Around
+  - At
+  - Behind
+  - Bellow
+  - Between
+  - Down
+  - In
+  - Infrontof
+  - Into
+  - Near
+  - On
+  - Opposite
+  - Outof
+  - Over
+  - Through
+  - Towards
+  - Under
+  - Up
   layers:
   - Default
   - TransparentFX
